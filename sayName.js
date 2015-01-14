@@ -12,7 +12,7 @@ var Person = function(name, age) {
   var daniel = new Person('Daniel', 40);
   var trish = new Person('Patricia', 32);
 
-//Now add a sayName method on your Person class that will alert the name of whatever Person instance called it
+//Now add a sayName method on your Person class that will alert the name of whatever Person instance called i
 
 Person.prototype.sayName = function() {
 	alert(this.name);

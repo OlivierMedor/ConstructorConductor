@@ -32,7 +32,7 @@ console.log(lenny);
 
 
 
-//Now create another instance of User using your own information and then add that to your users array.
+//Now create another instance of User using your own information and then add that to your users array
 
 var oliver = new User('Oliver', 'Oliviermedor@yahoo.com', 'MyTopSecret');
 users.push(oliver);

@@ -1,4 +1,4 @@
-//We're going to create the JS for a basic quiz application. 
+//We're going to create the JS for a basic quiz application
 
 //Let's think about the nature of this quiz app first. We're going to be creating lots of user objects, and we're
 //also going to be creating lots of Question objects. Those would make two perfectly good constructors. 
