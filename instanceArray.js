@@ -17,7 +17,7 @@ var lenny = new User('Lenny', 'lenn@theLenster.com', 'iLoveLentilSoup');
 var users = [];
 
 
-//Now create and push into your users array 3 seperate instances of User using the data from above in that exact order
+//Now create and push into your users array 3 seperate instances of User using the data from above in that exact or
 
 users.push(tyler, chlan, lenny);
 

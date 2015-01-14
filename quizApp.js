@@ -3,7 +3,7 @@
 //Let's think about the nature of this quiz app first. We're going to be creating lots of user objects, and we're
 //also going to be creating lots of Question objects. Those would make two perfectly good constructors. 
 
-//Create a User constructor that accepts name, email, password, and totalScore parameters and set them appropriatly
+//Create a User constructor that accepts name, email, password, and totalScore parameters and set them appropriatl
 
 var User = function(name, email, password, totalScore) {
 	this.name = name;
@@ -14,7 +14,7 @@ var User = function(name, email, password, totalScore) {
 }
 
 
-//Create a Question constructor that accepts title, answersArray, rightAnswer, and difficulty parameters
+//Create a Question constructor that accepts title, answersArray, rightAnswer, and difficulty parameter
 
  var Question = function(title, answersArray, rightAnswer, difficulty) {
  	this.title = title;
